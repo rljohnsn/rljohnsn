@@ -20,6 +20,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />][kubernetes]
+[<img align="left" alt="Hashicorp" width="30px" src="https://pbs.twimg.com/profile_images/1410644044678500359/cLBdR9vb_400x400.jpg" />][hashicorp]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -42,21 +43,22 @@
 <img align="left" alt="rljohnsn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rljohnsn&show_icons=true&hide_border=true&count_private=true&theme=dark"/> 
 
 
-[twitter]: https://twitter.com/johnsonrl
-[linkedin]: https://linkedin.com/in/lancejohnsn
-[kubernetes]: https://github.com/topics/kubernetes
 [bash]: https://github.com/topics/bash
+[css]: https://github.com/topics/css
 [git]: https://onlywei.github.io/explain-git-with-d3/
 [github]: https://docs.github.com/en
-[vscode]: https://github.com/topics/visual-studio-code
-[sql]: https://github.com/topics/sql
-[mysql]: https://github.com/topics/mysql
-[javascript]: https://github.com/topics/javascript
-[saas]: https://github.com/topics/saas
-[css]: https://github.com/topics/css
+[hashicorp]: https://github.com/topics/hashicorp
 [html5]: https://github.com/topics/html5
-[python]: https://github.com/topics/python
+[javascript]: https://github.com/topics/javascript
 [knox]: https://github.com/8x8/knox
+[kubernetes]: https://github.com/topics/kubernetes
+[linkedin]: https://linkedin.com/in/lancejohnsn
+[mysql]: https://github.com/topics/mysql
+[python]: https://github.com/topics/python
+[saas]: https://github.com/topics/saas
+[sql]: https://github.com/topics/sql
+[twitter]: https://twitter.com/johnsonrl
+[vscode]: https://github.com/topics/visual-studio-code
 <!--
 **rljohnsn/rljohnsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
