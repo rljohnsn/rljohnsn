@@ -21,6 +21,7 @@
 
 [<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />][kubernetes]
 [<img align="left" alt="Hashicorp" width="30px" src="https://pbs.twimg.com/profile_images/1410644044678500359/cLBdR9vb_400x400.jpg" />][hashicorp]
+[<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
@@ -42,7 +43,7 @@
 ### Github Stats
 <img align="left" alt="rljohnsn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rljohnsn&show_icons=true&hide_border=true&count_private=true&theme=dark"/> 
 
-
+[aws]: https://github.com/topics/aws
 [bash]: https://github.com/topics/bash
 [css]: https://github.com/topics/css
 [git]: https://onlywei.github.io/explain-git-with-d3/
