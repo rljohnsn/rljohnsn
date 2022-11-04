@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />][kubernetes]
 [<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
-[<img align="left" alt="Hashicorp" width="30px" src="https://ir.hashicorp.com/sites/g/files/knoqqb74281/themes/site/nir_pid6550/dist/images/footer-logo.png" />][hashicorp]
+[<img align="left" alt="Hashicorp" width="30px" src="https://d3ml3b6vywsj0z.cloudfront.net/company_images/5c3b0166d55ae49f1b77ca0b_images.png" />][hashicorp]
 [<img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html5]
