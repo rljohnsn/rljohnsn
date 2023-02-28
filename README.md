@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other DevOps Innovators
-- 🥅 2021 Goals: Contribute to ANY Open Source projects
+- 🥅 2023 Goals: Contribute to ANY Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
