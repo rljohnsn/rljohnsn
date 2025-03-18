@@ -1,7 +1,5 @@
 ### Hey, I'm Lance. Thanks for stopping by. 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/johnsonrl?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frljohnsn&screen_name=johnsonrl)
-
 ## I'm a Husband, Father, Coach, and Mentor
 
 - 🌱 I’m currently learning everything 🤣
@@ -11,7 +9,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="johnsonrl | Twitter" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
 [<img align="left" alt="lance.johnson | LinkedIn" width="50px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />][linkedin]
 
 <br />
