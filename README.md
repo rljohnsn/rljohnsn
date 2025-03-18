@@ -16,6 +16,7 @@
 
 ### Languages and Tools:
 
+[<img aling="left" alt="ArgoCD" width="40px" src="https://congdonglinux.com/wp-content/uploads/2024/08/argocd-logo-720x556.webp"/>][argocd]
 [<img align="left" alt="Kubernetes" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" />][kubernetes]
 [<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="Hashicorp" width="30px" src="https://logowik.com/content/uploads/images/t_hashicorp9742.jpg" />][hashicorp]
@@ -39,6 +40,7 @@
 <img align="left" alt="Knox" width="26px" src="https://raw.githubusercontent.com/8x8/knox/ef696faf88b21dde4357bfc44b74b1727430d294/knox-icon.png"/>[Knox][knox]
 
 [aws]: https://github.com/topics/aws
+[argocd]: https://github.com/topics/argocd
 [bash]: https://github.com/topics/bash
 [css]: https://github.com/topics/css
 [docker]: https://github.com/topics/docker
