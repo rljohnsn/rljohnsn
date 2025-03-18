@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other DevOps Innovators
-- 🥅 2023 Goals: Contribute to ANY Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar
+- 🥅 2025 Goals: Contribute to ANY Open Source projects
+- ⚡ Fun fact: Just finished my third play through of BG3
 
 ### Connect with me:
 
@@ -40,9 +40,6 @@
 ### Open Source Projects
 
 <img align="left" alt="Knox" width="26px" src="https://raw.githubusercontent.com/8x8/knox/ef696faf88b21dde4357bfc44b74b1727430d294/knox-icon.png"/>[Knox][knox]
-
-### Github Stats
-<img align="left" alt="rljohnsn's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rljohnsn&show_icons=true&hide_border=true&count_private=true&theme=dark"/> 
 
 [aws]: https://github.com/topics/aws
 [bash]: https://github.com/topics/bash
